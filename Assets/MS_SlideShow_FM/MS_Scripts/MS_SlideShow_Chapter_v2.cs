@@ -35,6 +35,7 @@ public class MS_SlideShow_Chapter_v2 : MonoBehaviour
         {
             foreach (GameObject g in rowsSpawned) Destroy(g);
         }
+        columnContainer.GetComponent<VerticalLayoutGroup>().enabled = true;
         rowsSpawned = new List<GameObject>();
         cellsSpawned = new List<MS_SlideShow_Chapter_v2_Cell>();
         cellSpawnedCount = 0;
