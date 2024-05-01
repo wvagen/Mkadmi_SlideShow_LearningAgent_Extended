@@ -10,6 +10,7 @@ public class MS_SlideShow_Vid : MonoBehaviour
     public VideoPlayer videoPlayer;
 
     public float videoStartMoment;
+    public float videoSpeed = 1;
 
     private void OnEnable()
     {
@@ -17,6 +18,8 @@ public class MS_SlideShow_Vid : MonoBehaviour
         {
             videoPlayer.time = videoStartMoment;
         }
+
+        videoPlayer.playbackSpeed = videoSpeed;
     }
 
     void Update()
