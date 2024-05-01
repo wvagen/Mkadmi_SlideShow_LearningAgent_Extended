@@ -15,6 +15,8 @@ public class Element_Script_v2 : MonoBehaviour
 
     bool isLoopablePlayed = false;
 
+    public bool isLoppable = true;
+
     private void OnEnable()
     {
         transform.localScale = Vector2.zero;
@@ -39,7 +41,7 @@ public class Element_Script_v2 : MonoBehaviour
 
     void Update()
     {
-        if (isLoopablePlayed)
+        if (isLoopablePlayed && isLoppable)
         {
             isLoopablePlayed = false;
             StartCoroutine(Loopable_Scale());
