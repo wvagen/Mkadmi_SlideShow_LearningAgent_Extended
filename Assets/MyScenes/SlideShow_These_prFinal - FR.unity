@@ -1911,7 +1911,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Text
-      value: 'State of the art '
+      value: "L'\xE9tat de l'art"
       objectReference: {fileID: 0}
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_FontData.m_MaxSize
@@ -2154,7 +2154,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Text
-      value: 'State of the art '
+      value: "L'\xE9tat de l'art"
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Color.b
@@ -2279,7 +2279,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Text
-      value: 'State of the art '
+      value: "L'\xE9tat de l'art"
       objectReference: {fileID: 0}
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_FontData.m_MaxSize
@@ -2417,7 +2417,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Text
-      value: 'State of the art '
+      value: "L'\xE9tat de l'art"
       objectReference: {fileID: 0}
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_FontData.m_MaxSize
@@ -5014,7 +5014,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Text
-      value: 'State of the art '
+      value: "L'\xE9tat de l'art"
       objectReference: {fileID: 0}
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_FontData.m_MaxSize
@@ -5152,7 +5152,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Text
-      value: 'State of the art '
+      value: "L'\xE9tat de l'art"
       objectReference: {fileID: 0}
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_FontData.m_MaxSize
@@ -9131,7 +9131,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Text
-      value: 'State of the art '
+      value: "L'\xE9tat de l'art"
       objectReference: {fileID: 0}
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_FontData.m_MaxSize
@@ -9568,7 +9568,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Text
-      value: 'State of the art '
+      value: "L'\xE9tat de l'art"
       objectReference: {fileID: 0}
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_FontData.m_MaxSize
@@ -9588,7 +9588,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1334151286675810786, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1334151286675810813, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Pivot.x
@@ -10685,7 +10685,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Text
-      value: 'State of the art '
+      value: "L'\xE9tat de l'art"
       objectReference: {fileID: 0}
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_FontData.m_MaxSize
@@ -11958,7 +11958,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7048378428306539168, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0.000015259
+      value: 0.000015258789
       objectReference: {fileID: 0}
     - target: {fileID: 8189248370086555571, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: isLoppable
@@ -12063,7 +12063,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Text
-      value: 'State of the art '
+      value: "L'\xE9tat de l'art"
       objectReference: {fileID: 0}
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_FontData.m_MaxSize
@@ -12326,8 +12326,9 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Text
-      value: "There is no such an effective AI till now that makes board games or
-        any kind of games using prompts of words\r \n(publicly available)\r\n\n"
+      value: "Jusqu'\xE0 pr\xE9sent, il n'existe pas d'IA efficace permettant de
+        cr\xE9er des jeux de soci\xE9t\xE9 ou tout autre type de jeu \xE0 partir
+        de text. \r\n(disponible publiquement)\n\n"
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Color.b
@@ -15100,7 +15101,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Text
-      value: 'State of the art '
+      value: "L'\xE9tat de l'art"
       objectReference: {fileID: 0}
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_FontData.m_MaxSize
@@ -15238,7 +15239,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Text
-      value: 'State of the art '
+      value: "L'\xE9tat de l'art"
       objectReference: {fileID: 0}
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_FontData.m_MaxSize
@@ -16440,7 +16441,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Text
-      value: 'State of the art '
+      value: "L'\xE9tat de l'art"
       objectReference: {fileID: 0}
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_FontData.m_MaxSize
@@ -16731,7 +16732,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Text
-      value: Video Games Genre
+      value: "Genre de jeux vid\xE9o"
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Color.b
@@ -17211,7 +17212,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Text
-      value: 'State of the art '
+      value: "L'\xE9tat de l'art"
       objectReference: {fileID: 0}
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_FontData.m_MaxSize
@@ -19438,7 +19439,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Text
-      value: 'State of the art '
+      value: "L'\xE9tat de l'art"
       objectReference: {fileID: 0}
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_FontData.m_MaxSize
@@ -20179,7 +20180,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7269786195367318464, guid: b8e8cda690e1caa4383ef98f3ab5c411, type: 3}
       propertyPath: m_Text
-      value: "Project Goal\r"
+      value: Objectif du projet
       objectReference: {fileID: 0}
     - target: {fileID: 7602749890168530579, guid: b8e8cda690e1caa4383ef98f3ab5c411, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -20822,7 +20823,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Text
-      value: 'State of the art '
+      value: "L'\xE9tat de l'art"
       objectReference: {fileID: 0}
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_FontData.m_MaxSize
@@ -22531,7 +22532,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Text
-      value: 'State of the art '
+      value: "L'\xE9tat de l'art"
       objectReference: {fileID: 0}
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_FontData.m_MaxSize
@@ -22774,7 +22775,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Text
-      value: "Project Goal\r"
+      value: Objectif du projet
       objectReference: {fileID: 0}
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_FontData.m_MaxSize
@@ -23767,7 +23768,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Text
-      value: 'State of the art '
+      value: "L'\xE9tat de l'art"
       objectReference: {fileID: 0}
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_FontData.m_MaxSize
@@ -23905,7 +23906,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Text
-      value: "Project Goal\r"
+      value: Objectif du projet
       objectReference: {fileID: 0}
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_FontData.m_MaxSize
@@ -26047,7 +26048,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Text
-      value: "Project Goal\r"
+      value: Objectif du projet
       objectReference: {fileID: 0}
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_FontData.m_MaxSize
@@ -27157,7 +27158,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7269786195367318464, guid: b8e8cda690e1caa4383ef98f3ab5c411, type: 3}
       propertyPath: m_Text
-      value: "State of the art\r"
+      value: "L'\xE9tat de l'art"
       objectReference: {fileID: 0}
     - target: {fileID: 7602749890168530579, guid: b8e8cda690e1caa4383ef98f3ab5c411, type: 3}
       propertyPath: m_AnchoredPosition.x
