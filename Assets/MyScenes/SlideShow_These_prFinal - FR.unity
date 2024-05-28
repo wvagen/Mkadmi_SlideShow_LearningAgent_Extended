@@ -1256,7 +1256,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5516132457376604109, guid: 3200824831a95d643a1b4fc777037f19, type: 3}
       propertyPath: m_Text
-      value: Generative AI
+      value: "IA g\xE9n\xE9rative"
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 3200824831a95d643a1b4fc777037f19, type: 3}
       propertyPath: m_Color.b
@@ -2563,7 +2563,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 3200824831a95d643a1b4fc777037f19, type: 3}
       propertyPath: m_Text
-      value: Games Generation ?
+      value: "G\xE9n\xE9ration Jeux ?"
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 3200824831a95d643a1b4fc777037f19, type: 3}
       propertyPath: m_Color.b
@@ -5470,7 +5470,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Text
-      value: Name & Surname
+      value: "Nom & Pr\xE9nom"
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Color.b
@@ -5490,7 +5490,7 @@ PrefabInstance:
       objectReference: {fileID: 12800000, guid: ea4910b9ff2a74dd0b4550a216ba0821, type: 3}
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_FontData.m_MaxSize
-      value: 74
+      value: 42
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802947, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Pivot.x
@@ -5574,7 +5574,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802947, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -496.48056
+      value: -482.7306
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802947, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -5921,9 +5921,13 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Text
-      value: "Generative Artificial Intelligence (AI) is a cutting-edge field in
-        computer science that revolves around machines\u2019 ability to generate
-        content autonomously."
+      value: "L'intelligence artificielle g\xE9n\xE9rative (IA) est un domaine de
+        pointe de l'informatique qui s'articule autour de la capacit\xE9 des machines
+        \xE0 g\xE9n\xE9rer du contenu de mani\xE8re autonome."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7048378428306539168, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -83.5247
       objectReference: {fileID: 0}
     - target: {fileID: 8189248370086555571, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: isLoppable
@@ -8662,7 +8666,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Text
-      value: What is Generative AI?
+      value: "Qu'est-ce que l'IA g\xE9n\xE9rative ?"
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Color.b
@@ -10821,7 +10825,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Text
-      value: "G\xE9n\xE9rateur de Jeux de Soci\xE9t\xE9 par des commandes"
+      value: "Jeux de soci\xE9t\xE9 \xE0 partir du texte"
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Color.b
@@ -11927,10 +11931,8 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Text
-      value: 'A game that involves the movement of counters or other objects round
-        a board.
-
-'
+      value: "Un jeu qui implique le d\xE9placement de pions ou d'autres objets autour
+        d'un plateau."
       objectReference: {fileID: 0}
     - target: {fileID: 7048378428306539168, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_AnchorMax.x
@@ -11954,11 +11956,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7048378428306539168, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_SizeDelta.y
-      value: -45.306
+      value: 0.000015259
       objectReference: {fileID: 0}
     - target: {fileID: 7048378428306539168, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -22.653
+      value: 0.000015259
       objectReference: {fileID: 0}
     - target: {fileID: 8189248370086555571, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: isLoppable
@@ -14023,7 +14025,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 3200824831a95d643a1b4fc777037f19, type: 3}
       propertyPath: m_Text
-      value: Music Generation
+      value: "G\xE9n\xE9ration musique"
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 3200824831a95d643a1b4fc777037f19, type: 3}
       propertyPath: m_Color.b
@@ -15378,7 +15380,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Text
-      value: "Academic Supervisor\r"
+      value: "Encadrant acad\xE9mique"
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Color.b
@@ -15398,7 +15400,7 @@ PrefabInstance:
       objectReference: {fileID: 12800000, guid: ea4910b9ff2a74dd0b4550a216ba0821, type: 3}
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_FontData.m_MaxSize
-      value: 74
+      value: 42
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802947, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Pivot.x
@@ -15430,7 +15432,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802947, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 373.56
+      value: 425.01
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802947, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_SizeDelta.y
@@ -15482,7 +15484,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802947, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -496.48056
+      value: -482.73056
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802947, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -16983,7 +16985,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Text
-      value: Board Game
+      value: "Jeu de soci\xE9t\xE9"
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Color.b
@@ -17371,7 +17373,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1334151286675810786, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1334151286675810813, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Pivot.x
@@ -20307,7 +20309,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 3200824831a95d643a1b4fc777037f19, type: 3}
       propertyPath: m_Text
-      value: Video Generation
+      value: "G\xE9n\xE9ration vid\xE9o"
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 3200824831a95d643a1b4fc777037f19, type: 3}
       propertyPath: m_Color.b
@@ -21339,7 +21341,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1334151286675810786, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1334151286675810813, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Pivot.x
@@ -22174,7 +22176,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 3200824831a95d643a1b4fc777037f19, type: 3}
       propertyPath: m_Text
-      value: 3D Shape Generation
+      value: "G\xE9n\xE9ration de formes en 3D"
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 3200824831a95d643a1b4fc777037f19, type: 3}
       propertyPath: m_Color.b
@@ -23043,7 +23045,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 3200824831a95d643a1b4fc777037f19, type: 3}
       propertyPath: m_Text
-      value: Image Generation
+      value: "G\xE9n\xE9ration d'images"
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 3200824831a95d643a1b4fc777037f19, type: 3}
       propertyPath: m_Color.b
