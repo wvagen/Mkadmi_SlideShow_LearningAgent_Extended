@@ -835,9 +835,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Text
-      value: 'Named entity recognition (NER) is a natural language processing (NLP)
-        method that extracts information from text. NER involves detecting and categorizing
-        important information in text known as named entities. '
+      value: "Named entity recognition (NER) est une m\xE9thode de traitement du
+        langage naturel (NLP) qui permet d'extraire des informations d'un texte.
+        La reconnaissance des entit\xE9s nomm\xE9es consiste \xE0 d\xE9tecter et
+        \xE0 classer les informations importantes contenues dans un texte, appel\xE9es
+        entit\xE9s nomm\xE9es. "
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_FontData.m_MaxSize
@@ -1736,8 +1738,16 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Text
-      value: "Colorizing black and white images or building realistic pictures from
-        human-drawn sketches.\_"
+      value: "Coloriser des images en noir et blanc ou construire des images r\xE9alistes
+        \xE0 partir de croquis humains. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7048378428306539168, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -70.7078
+      objectReference: {fileID: 0}
+    - target: {fileID: 7048378428306539168, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -71.24
       objectReference: {fileID: 0}
     - target: {fileID: 8990503619287933326, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Pivot.x
@@ -3929,7 +3939,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Text
-      value: black&white to color image
+      value: "image en noir et blanc \xE0 l'image en couleur"
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Color.b
@@ -3949,7 +3959,7 @@ PrefabInstance:
       objectReference: {fileID: 12800000, guid: ea4910b9ff2a74dd0b4550a216ba0821, type: 3}
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_FontData.m_MaxSize
-      value: 55
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802947, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Pivot.x
@@ -5601,7 +5611,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Text
-      value: Entities Recognition Sample
+      value: "Exemple de reconnaissance des entit\xE9s"
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Color.b
@@ -7800,8 +7810,8 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Text
-      value: The dataset maker is a custom tool made to generate the dataset for
-        the training purposes.
+      value: "Dataset maker est un outil personnalis\xE9 con\xE7u pour g\xE9n\xE9rer
+        l'ensemble de donn\xE9es \xE0 des fins de formation."
       objectReference: {fileID: 0}
     - target: {fileID: 7048378428306539168, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_SizeDelta.x
@@ -9588,7 +9598,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1334151286675810786, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1334151286675810813, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Pivot.x
@@ -9710,7 +9720,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 964083376760615588, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Text
-      value: Bibliography
+      value: Bibliographie
       objectReference: {fileID: 0}
     - target: {fileID: 964083376760615589, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_SizeDelta.y
@@ -10228,15 +10238,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7269786195367318464, guid: b8e8cda690e1caa4383ef98f3ab5c411, type: 3}
       propertyPath: m_Text
-      value: Thank .you.
+      value: Merci
       objectReference: {fileID: 0}
     - target: {fileID: 7602749890168530579, guid: b8e8cda690e1caa4383ef98f3ab5c411, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 33
+      value: -22
       objectReference: {fileID: 0}
     - target: {fileID: 7602749890168530579, guid: b8e8cda690e1caa4383ef98f3ab5c411, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -21
+      value: -96
       objectReference: {fileID: 0}
     - target: {fileID: 8863575792317929488, guid: b8e8cda690e1caa4383ef98f3ab5c411, type: 3}
       propertyPath: m_Color.a
@@ -10350,11 +10360,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5516132457376604109, guid: 3200824831a95d643a1b4fc777037f19, type: 3}
       propertyPath: m_Text
-      value: "Mr. Mounir Zrigui\r"
+      value: "PROF. Mounir Zrigui\r"
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 3200824831a95d643a1b4fc777037f19, type: 3}
       propertyPath: m_FontData.m_MaxSize
-      value: 46
+      value: 38
       objectReference: {fileID: 0}
     - target: {fileID: 7048378428306539168, guid: 3200824831a95d643a1b4fc777037f19, type: 3}
       propertyPath: m_AnchorMax.x
@@ -10374,11 +10384,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7048378428306539168, guid: 3200824831a95d643a1b4fc777037f19, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 0
+      value: -56.1045
       objectReference: {fileID: 0}
     - target: {fileID: 7048378428306539168, guid: 3200824831a95d643a1b4fc777037f19, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 0
+      value: -59.4048
       objectReference: {fileID: 0}
     - target: {fileID: 8990503619287933326, guid: 3200824831a95d643a1b4fc777037f19, type: 3}
       propertyPath: m_Pivot.x
@@ -11057,10 +11067,10 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 714256453149912598, guid: 5a5d9523716628c44a35df2d5b4c820a, type: 3}
       propertyPath: m_Text
-      value: The BGGTP is a prototype project that emphasizes the power of AI and
-        immerge different techniques to achieve a proof of concept. The approach
-        taken is not the best one nor the only one. It's a way to prove that anything
-        can be generated through AI.
+      value: "Le BGGTP est un projet prototype qui met l'accent sur la puissance
+        de l'IA et immerge diff\xE9rentes techniques pour r\xE9aliser une preuve
+        de concept. L'approche adopt\xE9e n'est ni la meilleure ni la seule. C'est
+        un moyen de prouver que tout peut \xEAtre g\xE9n\xE9r\xE9 par l'IA."
       objectReference: {fileID: 0}
     - target: {fileID: 714256453149912598, guid: 5a5d9523716628c44a35df2d5b4c820a, type: 3}
       propertyPath: m_Color.b
@@ -11791,7 +11801,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7269786195367318464, guid: b8e8cda690e1caa4383ef98f3ab5c411, type: 3}
       propertyPath: m_Text
-      value: Implementation
+      value: "Impl\xE9mentation"
       objectReference: {fileID: 0}
     - target: {fileID: 7602749890168530579, guid: b8e8cda690e1caa4383ef98f3ab5c411, type: 3}
       propertyPath: m_LocalScale.x
@@ -12485,7 +12495,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Text
-      value: Generates images conditionally on a user-defined image
+      value: "G\xE9n\xE8rer des images en fonction d'une image d\xE9finie par l'utilisateur"
       objectReference: {fileID: 0}
     - target: {fileID: 7048378428306539168, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_SizeDelta.x
@@ -13894,10 +13904,9 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Text
-      value: 'Generative Adversarial Networks (GANs) are a class of machine learning
-        frameworks that have emerged as a prominent approach for generative AI.
-
-'
+      value: "Generative Adversarial Networks (GANs) sont une classe de cadres d'apprentissage
+        automatique qui ont \xE9merg\xE9 comme une approche de premier plan pour
+        l'IA g\xE9n\xE9rative.\n"
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_FontData.m_MaxSize
@@ -18341,12 +18350,10 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Text
-      value: 'Training AlphaZero for 700,000 steps. Elo ratings were computed from
-        games between different players where each player was given 1 s per move.
-        (A) Performance of AlphaZero in chess compared with the 2016 TCEC world champion
-        program Stockfish.
-
-'
+      value: "Entra\xEEnement d'AlphaZero pour 700,000 pas. Les notes Elo ont \xE9t\xE9
+        calcul\xE9es \xE0 partir de parties entre diff\xE9rents joueurs o\xF9 chaque
+        joueur disposait d'une seconde par coup. (A) Performance d'AlphaZero aux
+        \xE9checs compar\xE9e au programme Stockfish, champion du monde 2016."
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_FontData.m_MaxSize
@@ -18870,7 +18877,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Text
-      value: 'NER: CoreNLP, Spacy And Flair'
+      value: 'NER: CoreNLP, Spacy et Flair'
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Color.b
@@ -21193,7 +21200,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Text
-      value: "training procedure\n for the discriminator"
+      value: "proc\xE9dure de formation\r\n pour le discriminateur"
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Color.b
@@ -21214,6 +21221,10 @@ PrefabInstance:
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_FontData.m_MaxSize
       value: 74
+      objectReference: {fileID: 0}
+    - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
+      propertyPath: m_FontData.m_LineSpacing
+      value: 1.33
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802947, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Pivot.x
@@ -21249,7 +21260,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802947, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 100.0411
+      value: 116.0067
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802947, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_LocalPosition.x
@@ -22331,7 +22342,7 @@ PrefabInstance:
     - target: {fileID: 8006151346625909020, guid: 2829911413e76544bacb53a836416ad6, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: b513434b46b452641aaa0cdca6578368, type: 3}
+      objectReference: {fileID: 21300000, guid: 97328829c443a464cafd7632daf79630, type: 3}
     - target: {fileID: 8006151346625909021, guid: 2829911413e76544bacb53a836416ad6, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -22362,11 +22373,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8006151346625909021, guid: 2829911413e76544bacb53a836416ad6, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 1663.5964
+      value: 1920
       objectReference: {fileID: 0}
     - target: {fileID: 8006151346625909021, guid: 2829911413e76544bacb53a836416ad6, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 777.43
+      value: 897.2522
       objectReference: {fileID: 0}
     - target: {fileID: 8006151346625909021, guid: 2829911413e76544bacb53a836416ad6, type: 3}
       propertyPath: m_LocalPosition.x
@@ -22913,7 +22924,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Text
-      value: "training procedure\n for the generator"
+      value: "proc\xE9dure de formation\r\n pour le g\xE9n\xE9rateur"
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Color.b
@@ -22934,6 +22945,10 @@ PrefabInstance:
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_FontData.m_MaxSize
       value: 74
+      objectReference: {fileID: 0}
+    - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
+      propertyPath: m_FontData.m_LineSpacing
+      value: 1.24
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802947, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Pivot.x
@@ -22969,7 +22984,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802947, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 95.079
+      value: 116.5657
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802947, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_LocalPosition.x
@@ -23191,7 +23206,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Text
-      value: Project Components
+      value: Composantes du projet
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Color.b
@@ -23235,7 +23250,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7048378428306539168, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 71.3098
+      value: 75.6343
       objectReference: {fileID: 0}
     - target: {fileID: 7048378428306539168, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -23243,7 +23258,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7048378428306539168, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 9
+      value: 6.8377
       objectReference: {fileID: 0}
     - target: {fileID: 8990503619287933326, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Pivot.x
@@ -25790,7 +25805,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Text
-      value: Overiview
+      value: Vue d'ensemble
       objectReference: {fileID: 0}
     - target: {fileID: 7208099069254802946, guid: 83c063129197fff41a3755c3b1b06ec1, type: 3}
       propertyPath: m_Color.b
@@ -26412,7 +26427,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Text
-      value: Generates images conditionally on a user-defined image
+      value: "G\xE9n\xE8rer des images en fonction d'une image d\xE9finie par l'utilisateur"
       objectReference: {fileID: 0}
     - target: {fileID: 7048378428306539168, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_SizeDelta.x
@@ -26908,9 +26923,10 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Text
-      value: "Reinforcement learning (RL) is\_a subset of machine learning that allows
-        an AI-driven system (sometimes referred to as an agent) to learn through
-        trial and error using feedback from its actions.\r"
+      value: "Reinforcement learning (RL) est un sous-ensemble de l'apprentissage
+        automatique qui permet \xE0 un syst\xE8me pilot\xE9 par l'IA (parfois appel\xE9
+        agent) d'apprendre par essais et erreurs en utilisant le retour d'information
+        de ses actions."
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_FontData.m_MaxSize
