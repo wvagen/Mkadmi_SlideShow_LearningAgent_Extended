@@ -3630,9 +3630,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Text
-      value: 'Piece moves
-
-'
+      value: "Mouvements de pi\xE8ces"
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Color.b
@@ -3680,11 +3678,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7048378428306539168, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_SizeDelta.y
-      value: -89.7246
+      value: -64.412
       objectReference: {fileID: 0}
     - target: {fileID: 7048378428306539168, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -18.045898
+      value: -5.3896
       objectReference: {fileID: 0}
     - target: {fileID: 8189248370086555571, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: isLoppable
@@ -6957,7 +6955,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 3200824831a95d643a1b4fc777037f19, type: 3}
       propertyPath: m_Text
-      value: Board Game
+      value: "Jeu de soci\xE9t\xE9"
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 3200824831a95d643a1b4fc777037f19, type: 3}
       propertyPath: m_Color.b
@@ -7241,7 +7239,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Text
-      value: Duration
+      value: "La dur\xE9e"
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Color.b
@@ -7916,7 +7914,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Text
-      value: Board Size
+      value: Taille du matrice
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Color.b
@@ -13625,9 +13623,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Text
-      value: 'Number of pieces for each player
-
-'
+      value: "Nombre de pi\xE8ces pour chaque joueur"
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Color.b
@@ -13643,7 +13639,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_FontData.m_MaxSize
-      value: 32
+      value: 29
       objectReference: {fileID: 0}
     - target: {fileID: 7009503382792672213, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Type
@@ -13671,15 +13667,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7048378428306539168, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_SizeDelta.x
-      value: -56.4932
+      value: -79.2184
       objectReference: {fileID: 0}
     - target: {fileID: 7048378428306539168, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_SizeDelta.y
-      value: -89.7246
+      value: -83.5151
       objectReference: {fileID: 0}
     - target: {fileID: 7048378428306539168, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -18.045898
+      value: -3.8289032
       objectReference: {fileID: 0}
     - target: {fileID: 8189248370086555571, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: isLoppable
@@ -21341,7 +21337,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1334151286675810786, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1334151286675810813, guid: af64742eb262e474ea58f7fed67d5074, type: 3}
       propertyPath: m_Pivot.x
@@ -24047,9 +24043,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Text
-      value: 'Objective of each player
-
-'
+      value: Objectif de chaque joueur
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Color.b
@@ -24097,11 +24091,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7048378428306539168, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_SizeDelta.y
-      value: -89.7246
+      value: -53.9297
       objectReference: {fileID: 0}
     - target: {fileID: 7048378428306539168, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -18.045898
+      value: -0.14849854
       objectReference: {fileID: 0}
     - target: {fileID: 8189248370086555571, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: isLoppable
@@ -24323,9 +24317,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Text
-      value: 'Game Rules
-
-'
+      value: "R\xE8gles du jeu"
       objectReference: {fileID: 0}
     - target: {fileID: 5516132457376604109, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_Color.b
@@ -24373,11 +24365,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7048378428306539168, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_SizeDelta.y
-      value: -89.7246
+      value: -63.044
       objectReference: {fileID: 0}
     - target: {fileID: 7048378428306539168, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -18.045898
+      value: -4.7056
       objectReference: {fileID: 0}
     - target: {fileID: 8189248370086555571, guid: 4b906a43bf1a2304580ae170d2250589, type: 3}
       propertyPath: isLoppable
