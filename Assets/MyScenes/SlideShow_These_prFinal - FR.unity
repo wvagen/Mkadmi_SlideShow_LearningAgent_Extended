@@ -4074,6 +4074,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 2271572656298088449, guid: 15a483fffec2c48c983e4540e63d81c0, type: 3}
+      propertyPath: videoSpeed
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 5989537581340948683, guid: 15a483fffec2c48c983e4540e63d81c0, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: -134.3833
@@ -24662,7 +24666,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2271572656298088449, guid: 15a483fffec2c48c983e4540e63d81c0, type: 3}
       propertyPath: videoSpeed
-      value: 3
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 5989537581340948683, guid: 15a483fffec2c48c983e4540e63d81c0, type: 3}
       propertyPath: m_AnchoredPosition.x
